@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Blogger Tune-Up
+site_url: http://btuneup.github.io/
+site_description: Simple project but smart excetution.
+site_author: Dede Hendriono
+
+repo_url: https://github.com/btuneup/
+edit_uri: '?query=root/path/docs/'
